@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.material-symbols-outlined {
+  font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
+}
+
+.form-input-select {
+  background-image: url(https://lh3.googleusercontent.com/aida-public/AB6AXuAVSiuqDBHVDp-2xOkx4zq7G_AxXAUEpWxkEjvsK9MKspVougoy6CD40YeUSl_WpUdX0-NXKJ3aUwRIm9-IOMeIO_dHxcE5ZBw2i35TL17RizRLHgSotJOYPBsWrCIWshQqN3CFtZdDQqulYioGZIuxgu6jhDREHmbN6p8lU4BS2eD0AyQXFLbiK-FwFIPX2xXYcprClOz6Ra4Hc_u6O_RroRnr1aNwaw_9hozxoaKoT19VK2nZP7g1_LPbMMm68onVfX4hhy0wHrB1);
+  background-position: right 0.5rem center;
+  background-repeat: no-repeat;
+  background-size: 1.5em 1.5em;
+  padding-right: 2.5rem;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.active-nav {
+  background-color: rgba(43, 140, 238, 0.15);
+  color: #2b8cee;
+}

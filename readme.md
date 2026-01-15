@@ -79,6 +79,8 @@ Reusable components
 Practical compliance workflow understanding
 
 Readable, maintainable frontend code
+![alt text](image.png)
 
+![alt text](image-1.png)
 Project Live Link:
 https://dashboard-b155c.web.app/
